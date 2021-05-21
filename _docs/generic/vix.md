@@ -3,6 +3,7 @@ title: VIX
 subtitle: CBOE Volatility Index
 tags: [getting-started, formatting]
 product: Generic
+sidebar: generic
 ---
 
 VIX 지수
