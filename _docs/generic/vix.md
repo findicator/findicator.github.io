@@ -2,6 +2,7 @@
 title: VIX
 subtitle: CBOE Volatility Index
 tags: [getting-started, formatting]
+permalink: vix.html
 product: Generic
 sidebar: generic
 ---

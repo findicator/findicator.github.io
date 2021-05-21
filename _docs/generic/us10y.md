@@ -2,6 +2,7 @@
 title: 미국 10년 만기 채권 수익률
 subtitle: U.S. 10 Year Treasury
 tags: [getting-started, formatting]
+permalink: us10y.html
 product: Generic
 sidebar: generic
 ---
