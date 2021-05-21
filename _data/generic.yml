@@ -4,7 +4,7 @@ owner: tomjohnson1492
 ## Keep this commented out content because it shows the YAML model for the sidebar.
 
 folders:
-- title: Theme documentation
+- title: Finance Indicator
   folderitems:
   - title: Home
     url: /index.html
@@ -17,6 +17,12 @@ folders:
 
   - title: Sample 3
     url: /sample3.html
+  
+  - title: VIX
+    url: /vix.html
+
+  - title:  US채권 10년 만기
+    url: /us10y.html
 
     subfolders:
     - title: Second level deep
